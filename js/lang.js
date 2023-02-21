@@ -35,6 +35,10 @@ const langArr = {
         "ru": "Начать",
         "uz": "Boshlash",
     }, 
+    "begin-two" :  {
+        "ru": "Начать",
+        "uz": "Boshlash",
+    }, 
     "vitamin" :  {
         "ru": "Витамин",
         "uz": "Vitamin",
@@ -148,6 +152,77 @@ const langArr = {
         "ru": "Повышает иммунитет ",
         "uz": "Immunitetni oshirishda va boshqalarda qo'llaniladi!",
     },
+    "acc-title" :  {
+        "ru": "Для каких процессов в организме нужен Иноксол:",
+        "uz": "Inoksol tanadagi qanday jarayonlarni talab qiladi:",
+    },
+    "acc-1" :  {
+        "ru": "МЕТОБОЛИЗМ",
+        "uz": "METABOLIZMA",
+    },
+    "text-1" :  {
+        "ru": "Необходим для синтеза многих важных ферментов. Ускоряет обменные процессы, в том числе и жировой метаболизм, что сказывается на похудении в долгосрочной перспективе ",
+        "uz": "Ko'pgina muhim fermentlarni sintez qilish uchun zarur. Metabolik jarayonlarni, shu jumladan yog 'almashinuvini tezlashtiradi, bu uzoq muddatda kilogramm halok bo'lishiga ta'sir qiladi",
+    },
+    "acc-2" :  {
+        "ru": "  ГЕПАТОПРОТЕКТОРНЫЙ ЭФФЕКТ",
+        "uz": "GEPATOPROTEKTİV TA'SIR",
+    },
+    "text-2" :  {
+        "ru": "Снижает риски жирового перерождения печени, улучшает печеночную функцию. Улучшает  выведение токсинов и других побочных продуктов из организма, поддерживает регенеративные свойства органа",
+        "uz": "Jigarning yog'li degeneratsiyasi xavfini kamaytiradi, jigar faoliyatini yaxshilaydi. Yaxshilaydi toksinlar va boshqa yon mahsulotlarni tanadan olib tashlash, qo'llab-quvvatlaydi tananing regenerativ xususiyatlari",
+    },
+    "acc-3" :  {
+        "ru": "  ПИШЕВАРЕНИЕ",
+        "uz": "HAZM QILISH",
+    },
+    "text-3" :  {
+        "ru": "Вещество ускоряет перистальтику и моторику желудка, улучшает работу органов пищеварения. Снижает влияние стресса на ЖКТ",
+        "uz": "Ushbu modda oshqozonning peristaltikasini va harakatini tezlashtiradi, ovqat hazm qilish organlarining faoliyatini yaxshilaydi. Stressning oshqozon-ichak traktiga ta'sirini kamaytiradi",
+    },
+    "acc-4" :  {
+        "ru": "  СЕРДЕЧНО-СОСУДИСТАЯ СИСТЕМА",
+        "uz": "YURAK-QONTOMLAR TIZIMI",
+    },
+    "text-4" :  {
+        "ru": "Снижает уровень вредного холестерина, понижает риски развития сердечно-сосудистых  заболеваний. Инозитол B8 показан к применению для укрепления стенок сосудов,  разжижения крови и нормализации артериального давления",
+        "uz": "Yomon xolesterin darajasini pasaytiradi, yurak-qon tomir kasalliklarini rivojlanish xavfini kamaytiradi kasalliklar. Inositol B8 qon tomirlari devorlarini mustahkamlash uchun  ko'rsatiladi, qonni suyultirish va qon bosimini normallashtirish",
+    },
+    "acc-5" :  {
+        "ru": "   ЗДОРОВЬЕ ВОЛОС, НОГТЕЙ И КОЖИ",
+        "uz": "SOCH, TIRNOQ VA TERI SALOMATLIGI",
+    },
+    "text-5" :  {
+        "ru": "Витамин улучшает состояние эпидермиса, устраняет накожные заболевания. Также усиливает рост волос и укрепляет их структуру",
+        "uz": "Vitamin epidermisning holatini yaxshilaydi, teri kasalliklarini yo'q qiladi. Bundan tashqari, soch o'sishini kuchaytiradi va ularning tuzilishini mustahkamlaydi.",
+    },
+    "acc-6" :  {
+        "ru": "ОПОРНО-ДВИГАТЕЛЬНЫЙ АППАРАТ",
+        "uz": "MUSHAK-SKELET TIZIMI",
+    },
+    "text-6" :  {
+        "ru": "укрепляет структуру и ускоряет восстановление костных и мышечных тканей. Потому   инозитол часто пьют для профилактики возникновения травм спорте (он обязательно  входит во все комплексные витаминные добавки)",
+        "uz": "strukturani mustahkamlaydi va suyak va mushak to'qimalarining tiklanishini tezlashtiradi. Chunki Sport jarohatlari paydo bo'lishining oldini olish uchun inositol ko'pincha mast bo'ladi (bu kerak barcha murakkab vitamin qo'shimchalariga kiritilgan)",
+    },
+    "warn-info-1" :  {
+        "ru": "Противопоказания",
+        "uz": "Qo'llash mumkin bo'lmagan holatlar",
+    },
+    "warn-text-1" :  {
+        "ru": " Индивидуальная непереносимость компонентов Хранить в недоступном для детей месте Хранить в оригинальной упаковке при температуре  не выше 25 °C. БАД не является лекарственным  средством!",
+        "uz": "Komponentlarga individual intolerans Bolalar qo'li etmaydigan joyda saqlang Asl o'ramda haroratda saqlang 25 ° C dan yuqori emas. xun takviyesi dorivor emas chora!",
+    },
+    "warn-info-2" :  {
+        "ru": "Применение при беременности и кормлении грудью:",
+        "uz": "Homiladorlik va laktatsiya davrida foydalanish:",
+    },
+    "warn-text-2" :  {
+        "ru": "Перед применением рекомендуется проконсультироваться с врачом",
+        "uz": "Foydalanishdan oldin tavsiya etiladi shifokor bilan maslahatlashing",
+    },
+
+ 
+    
     "blog-contacts" :  {
         "ru": "Контакты",
         "uz": "Kontakt",
@@ -218,7 +293,7 @@ const langArr = {
     }, 
     "location" :  {
         "ru": "Локация",
-        "uz": "Lokatsiya",
+        "uz": "Manzil",
     }, 
     "f-address" :  {
         "ru": "Ташкент улица Мукимий дом, 25-48",
